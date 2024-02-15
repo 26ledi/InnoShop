@@ -1,0 +1,12 @@
+J:\InnoShop\Shared\InnoShop.Messages.Shared\InnoShop.Messages.Shared\bin\Debug\net6.0\InnoShop.Messages.Shared.deps.json
+J:\InnoShop\Shared\InnoShop.Messages.Shared\InnoShop.Messages.Shared\bin\Debug\net6.0\InnoShop.Messages.Shared.dll
+J:\InnoShop\Shared\InnoShop.Messages.Shared\InnoShop.Messages.Shared\bin\Debug\net6.0\InnoShop.Messages.Shared.pdb
+J:\InnoShop\Shared\InnoShop.Messages.Shared\InnoShop.Messages.Shared\obj\Debug\net6.0\InnoShop.Messages.Shared.GeneratedMSBuildEditorConfig.editorconfig
+J:\InnoShop\Shared\InnoShop.Messages.Shared\InnoShop.Messages.Shared\obj\Debug\net6.0\InnoShop.Messages.Shared.AssemblyInfoInputs.cache
+J:\InnoShop\Shared\InnoShop.Messages.Shared\InnoShop.Messages.Shared\obj\Debug\net6.0\InnoShop.Messages.Shared.AssemblyInfo.cs
+J:\InnoShop\Shared\InnoShop.Messages.Shared\InnoShop.Messages.Shared\obj\Debug\net6.0\InnoShop.Messages.Shared.csproj.CoreCompileInputs.cache
+J:\InnoShop\Shared\InnoShop.Messages.Shared\InnoShop.Messages.Shared\obj\Debug\net6.0\InnoShop.Messages.Shared.dll
+J:\InnoShop\Shared\InnoShop.Messages.Shared\InnoShop.Messages.Shared\obj\Debug\net6.0\refint\InnoShop.Messages.Shared.dll
+J:\InnoShop\Shared\InnoShop.Messages.Shared\InnoShop.Messages.Shared\obj\Debug\net6.0\InnoShop.Messages.Shared.pdb
+J:\InnoShop\Shared\InnoShop.Messages.Shared\InnoShop.Messages.Shared\obj\Debug\net6.0\ref\InnoShop.Messages.Shared.dll
+J:\InnoShop\Shared\InnoShop.Messages.Shared\InnoShop.Messages.Shared\obj\Debug\net6.0\InnoShop.Messages.Shared.csproj.AssemblyReference.cache

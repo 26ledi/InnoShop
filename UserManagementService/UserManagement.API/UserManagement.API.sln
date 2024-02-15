@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserManagement.API", "UserManagement.API.csproj", "{9F3AF047-650B-4607-B49F-6A3885B9628F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserManagement.DataAccess", "..\UserManagement.DataAccess\UserManagement.DataAccess.csproj", "{0714ACA6-0336-4C79-84AF-0F8F341D9CB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserManagement.BusinessLogic", "..\UserManagement.BusinessLogic\UserManagement.BusinessLogic.csproj", "{F6A5B7DF-5885-4793-A15B-2FF8C312EDA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnoShop.Exceptions.Shared", "..\..\Shared\InnoShop.Exceptions.Shared\InnoShop.Exceptions.Shared\InnoShop.Exceptions.Shared.csproj", "{15F788C8-5D2A-4578-8BC0-FCA15B2B15D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnoShop.Messages.Shared", "..\..\Shared\InnoShop.Messages.Shared\InnoShop.Messages.Shared\InnoShop.Messages.Shared.csproj", "{051F61C3-2598-40A9-9D6B-620A00E680A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnoShop.MessageBrokers.Shared", "..\..\Shared\InnoShop.MessageBrokers.Shared\InnoShop.MessageBrokers.Shared\InnoShop.MessageBrokers.Shared.csproj", "{13C0E517-6477-4596-AEC8-A7B611C0AFD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F3AF047-650B-4607-B49F-6A3885B9628F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3AF047-650B-4607-B49F-6A3885B9628F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3AF047-650B-4607-B49F-6A3885B9628F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3AF047-650B-4607-B49F-6A3885B9628F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0714ACA6-0336-4C79-84AF-0F8F341D9CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0714ACA6-0336-4C79-84AF-0F8F341D9CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0714ACA6-0336-4C79-84AF-0F8F341D9CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0714ACA6-0336-4C79-84AF-0F8F341D9CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A5B7DF-5885-4793-A15B-2FF8C312EDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A5B7DF-5885-4793-A15B-2FF8C312EDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A5B7DF-5885-4793-A15B-2FF8C312EDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A5B7DF-5885-4793-A15B-2FF8C312EDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F788C8-5D2A-4578-8BC0-FCA15B2B15D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F788C8-5D2A-4578-8BC0-FCA15B2B15D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F788C8-5D2A-4578-8BC0-FCA15B2B15D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F788C8-5D2A-4578-8BC0-FCA15B2B15D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{051F61C3-2598-40A9-9D6B-620A00E680A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051F61C3-2598-40A9-9D6B-620A00E680A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051F61C3-2598-40A9-9D6B-620A00E680A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051F61C3-2598-40A9-9D6B-620A00E680A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C0E517-6477-4596-AEC8-A7B611C0AFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C0E517-6477-4596-AEC8-A7B611C0AFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C0E517-6477-4596-AEC8-A7B611C0AFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C0E517-6477-4596-AEC8-A7B611C0AFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73FCBC7E-0491-4D6F-81AB-9210FCA7BA78}
+	EndGlobalSection
+EndGlobal

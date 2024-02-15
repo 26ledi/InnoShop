@@ -1,0 +1,12 @@
+J:\InnoShop\Shared\InnoShop.Exceptions.Shared\InnoShop.Exceptions.Shared\bin\Debug\net6.0\InnoShop.Exceptions.Shared.deps.json
+J:\InnoShop\Shared\InnoShop.Exceptions.Shared\InnoShop.Exceptions.Shared\bin\Debug\net6.0\InnoShop.Exceptions.Shared.dll
+J:\InnoShop\Shared\InnoShop.Exceptions.Shared\InnoShop.Exceptions.Shared\bin\Debug\net6.0\InnoShop.Exceptions.Shared.pdb
+J:\InnoShop\Shared\InnoShop.Exceptions.Shared\InnoShop.Exceptions.Shared\obj\Debug\net6.0\InnoShop.Exceptions.Shared.GeneratedMSBuildEditorConfig.editorconfig
+J:\InnoShop\Shared\InnoShop.Exceptions.Shared\InnoShop.Exceptions.Shared\obj\Debug\net6.0\InnoShop.Exceptions.Shared.AssemblyInfoInputs.cache
+J:\InnoShop\Shared\InnoShop.Exceptions.Shared\InnoShop.Exceptions.Shared\obj\Debug\net6.0\InnoShop.Exceptions.Shared.AssemblyInfo.cs
+J:\InnoShop\Shared\InnoShop.Exceptions.Shared\InnoShop.Exceptions.Shared\obj\Debug\net6.0\InnoShop.Exceptions.Shared.csproj.CoreCompileInputs.cache
+J:\InnoShop\Shared\InnoShop.Exceptions.Shared\InnoShop.Exceptions.Shared\obj\Debug\net6.0\InnoShop.Exceptions.Shared.dll
+J:\InnoShop\Shared\InnoShop.Exceptions.Shared\InnoShop.Exceptions.Shared\obj\Debug\net6.0\refint\InnoShop.Exceptions.Shared.dll
+J:\InnoShop\Shared\InnoShop.Exceptions.Shared\InnoShop.Exceptions.Shared\obj\Debug\net6.0\InnoShop.Exceptions.Shared.pdb
+J:\InnoShop\Shared\InnoShop.Exceptions.Shared\InnoShop.Exceptions.Shared\obj\Debug\net6.0\ref\InnoShop.Exceptions.Shared.dll
+J:\InnoShop\Shared\InnoShop.Exceptions.Shared\InnoShop.Exceptions.Shared\obj\Debug\net6.0\InnoShop.Exceptions.Shared.csproj.AssemblyReference.cache

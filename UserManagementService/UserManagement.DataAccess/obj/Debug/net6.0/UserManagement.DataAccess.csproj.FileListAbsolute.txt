@@ -1,0 +1,14 @@
+J:\InnoShop\UserManagementService\UserManagement.DataAccess\bin\Debug\net6.0\UserManagement.DataAccess.deps.json
+J:\InnoShop\UserManagementService\UserManagement.DataAccess\bin\Debug\net6.0\UserManagement.DataAccess.runtimeconfig.json
+J:\InnoShop\UserManagementService\UserManagement.DataAccess\bin\Debug\net6.0\UserManagement.DataAccess.dll
+J:\InnoShop\UserManagementService\UserManagement.DataAccess\bin\Debug\net6.0\UserManagement.DataAccess.pdb
+J:\InnoShop\UserManagementService\UserManagement.DataAccess\obj\Debug\net6.0\UserManagement.DataAccess.csproj.AssemblyReference.cache
+J:\InnoShop\UserManagementService\UserManagement.DataAccess\obj\Debug\net6.0\UserManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+J:\InnoShop\UserManagementService\UserManagement.DataAccess\obj\Debug\net6.0\UserManagement.DataAccess.AssemblyInfoInputs.cache
+J:\InnoShop\UserManagementService\UserManagement.DataAccess\obj\Debug\net6.0\UserManagement.DataAccess.AssemblyInfo.cs
+J:\InnoShop\UserManagementService\UserManagement.DataAccess\obj\Debug\net6.0\UserManagement.DataAccess.csproj.CoreCompileInputs.cache
+J:\InnoShop\UserManagementService\UserManagement.DataAccess\obj\Debug\net6.0\UserManagement.DataAccess.dll
+J:\InnoShop\UserManagementService\UserManagement.DataAccess\obj\Debug\net6.0\refint\UserManagement.DataAccess.dll
+J:\InnoShop\UserManagementService\UserManagement.DataAccess\obj\Debug\net6.0\UserManagement.DataAccess.pdb
+J:\InnoShop\UserManagementService\UserManagement.DataAccess\obj\Debug\net6.0\UserManagement.DataAccess.genruntimeconfig.cache
+J:\InnoShop\UserManagementService\UserManagement.DataAccess\obj\Debug\net6.0\ref\UserManagement.DataAccess.dll

@@ -1,0 +1,12 @@
+J:\InnoShop\Shared\InnoShop.MessageBrokers.Shared\InnoShop.MessageBrokers.Shared\bin\Debug\net6.0\InnoShop.MessageBrokers.Shared.deps.json
+J:\InnoShop\Shared\InnoShop.MessageBrokers.Shared\InnoShop.MessageBrokers.Shared\bin\Debug\net6.0\InnoShop.MessageBrokers.Shared.dll
+J:\InnoShop\Shared\InnoShop.MessageBrokers.Shared\InnoShop.MessageBrokers.Shared\bin\Debug\net6.0\InnoShop.MessageBrokers.Shared.pdb
+J:\InnoShop\Shared\InnoShop.MessageBrokers.Shared\InnoShop.MessageBrokers.Shared\obj\Debug\net6.0\InnoShop.MessageBrokers.Shared.csproj.AssemblyReference.cache
+J:\InnoShop\Shared\InnoShop.MessageBrokers.Shared\InnoShop.MessageBrokers.Shared\obj\Debug\net6.0\InnoShop.MessageBrokers.Shared.GeneratedMSBuildEditorConfig.editorconfig
+J:\InnoShop\Shared\InnoShop.MessageBrokers.Shared\InnoShop.MessageBrokers.Shared\obj\Debug\net6.0\InnoShop.MessageBrokers.Shared.AssemblyInfoInputs.cache
+J:\InnoShop\Shared\InnoShop.MessageBrokers.Shared\InnoShop.MessageBrokers.Shared\obj\Debug\net6.0\InnoShop.MessageBrokers.Shared.AssemblyInfo.cs
+J:\InnoShop\Shared\InnoShop.MessageBrokers.Shared\InnoShop.MessageBrokers.Shared\obj\Debug\net6.0\InnoShop.MessageBrokers.Shared.csproj.CoreCompileInputs.cache
+J:\InnoShop\Shared\InnoShop.MessageBrokers.Shared\InnoShop.MessageBrokers.Shared\obj\Debug\net6.0\InnoShop.MessageBrokers.Shared.dll
+J:\InnoShop\Shared\InnoShop.MessageBrokers.Shared\InnoShop.MessageBrokers.Shared\obj\Debug\net6.0\refint\InnoShop.MessageBrokers.Shared.dll
+J:\InnoShop\Shared\InnoShop.MessageBrokers.Shared\InnoShop.MessageBrokers.Shared\obj\Debug\net6.0\InnoShop.MessageBrokers.Shared.pdb
+J:\InnoShop\Shared\InnoShop.MessageBrokers.Shared\InnoShop.MessageBrokers.Shared\obj\Debug\net6.0\ref\InnoShop.MessageBrokers.Shared.dll
