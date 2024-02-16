@@ -1,25 +1,29 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace UserManagement.API.Requests
+﻿namespace UserManagement.API.Requests
 {
+    /// <summary>
+    /// The register request which the user will send
+    /// </summary>
     public class UserRegisterRequest
     {
         /// <summary>
-        /// The register request which the user will send
+        /// The user's register name
         /// </summary>
-        [Required(ErrorMessage = "The user's name field is required")]
         public string Name { get; set; } = string.Empty;
-        [Required]
-        [DataType(DataType.EmailAddress)]
-        [EmailAddress]
+        /// <summary>
+        /// The user's register email
+        /// </summary>
         public string Email { get; set; } = string.Empty;
+        /// <summary>
+        /// The user's register Username
+        /// </summary>
         public string UserName { get; set; }
-        [Required]
-        [DataType(DataType.Password)]
+        /// <summary>
+        /// The user's register password 
+        /// </summary>
         public string Password { get; set; } = string.Empty;
-        [Required]
-        [DataType(DataType.Password)]
-        [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
+        /// <summary>
+        /// The user's register password confirmation
+        /// </summary>
         public string ConfirmPassword { get; set; } = string.Empty;
     }
 }

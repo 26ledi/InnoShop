@@ -34,7 +34,7 @@ namespace UserManagement.API.Controllers
         [HttpPost("Login")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public async Task<IActionResult> Login([FromBody] UserRequest userLoginRequest)
+        public async Task<IActionResult> Login([FromBody] UserLoginRequest userLoginRequest)
         {
             var response = await _userAuthenticationService.LoginAsync(_mapper.Map<UserLoginDto>(userLoginRequest));
 

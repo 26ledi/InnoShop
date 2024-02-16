@@ -5,10 +5,15 @@ namespace UserManagement.API.Requests
     /// <summary>
     /// The login request which the user will send
     /// </summary>
-    public class UserRequest
+    public class UserLoginRequest
     {
-        [Required]
+        /// <summary>
+        /// The user's email
+        /// </summary>
         public string Email { get; set; } = string.Empty;
+        /// <summary>
+        /// The user's password
+        /// </summary>
         public string Password { get; set; } = string.Empty;
     }
 }

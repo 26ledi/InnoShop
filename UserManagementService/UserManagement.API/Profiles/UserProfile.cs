@@ -17,9 +17,9 @@ namespace UserManagement.API.Profiles
         /// </summary>
         public UserProfile()
         {
-            CreateMap<UserRequest, User>().ReverseMap();
+            CreateMap<UserLoginRequest, User>().ReverseMap();
 
-            CreateMap<UserRequest, UserLoginDto>().ReverseMap();
+            CreateMap<UserLoginRequest, UserLoginDto>().ReverseMap();
 
             CreateMap<UserRegisterRequest, User>().ReverseMap();
 

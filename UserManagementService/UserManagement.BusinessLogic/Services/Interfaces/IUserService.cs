@@ -19,15 +19,13 @@ namespace UserManagement.BusinessLogic.Services.Interfaces
         /// <summary>
         /// Deletes a user.
         /// </summary>
-        /// <param name="userDto">The user who'll be deleted.</param>
+        /// <param name="email">The user's email which will be deleted.</param>
         /// <returns></returns>
         Task<UserDto> DeleteAsync(string email);
         /// <summary>
         /// Changes the password of a user.
         /// </summary>
-        /// <param name="email">The user's email for whom the password will be changed.</param>
-        /// <param name="currentPassword">The user's current password.</param>
-        /// <param name="newPassword">The new password for the user.</param>
+        /// <param name="userChangePasswordDto">.</param>
         /// <returns></returns>
         Task<UserDto> ChangePasswordAsync(UserChangePasswordDto userChangePasswordDto);
 
@@ -40,7 +38,7 @@ namespace UserManagement.BusinessLogic.Services.Interfaces
         /// <summary>
         /// Function of validating a reset password
         /// </summary>
-        /// <param name="email"></param>
+        /// <param name="userConfirmPasswordDto"></param>
         /// <returns></returns>
         Task<UserDto> ConfirmPasswordAsync(UserConfirmPasswordDto userConfirmPasswordDto);
         /// <summary>

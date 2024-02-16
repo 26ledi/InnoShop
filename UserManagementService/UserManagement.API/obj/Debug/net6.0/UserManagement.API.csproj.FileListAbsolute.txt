@@ -96,3 +96,6 @@ J:\InnoShop\UserManagementService\UserManagement.API\bin\Debug\net6.0\RabbitMQ.C
 J:\InnoShop\UserManagementService\UserManagement.API\bin\Debug\net6.0\System.Threading.Channels.dll
 J:\InnoShop\UserManagementService\UserManagement.API\bin\Debug\net6.0\InnoShop.MessageBrokers.Shared.dll
 J:\InnoShop\UserManagementService\UserManagement.API\bin\Debug\net6.0\InnoShop.MessageBrokers.Shared.pdb
+J:\InnoShop\UserManagementService\UserManagement.API\bin\Debug\net6.0\FluentValidation.dll
+J:\InnoShop\UserManagementService\UserManagement.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+J:\InnoShop\UserManagementService\UserManagement.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll

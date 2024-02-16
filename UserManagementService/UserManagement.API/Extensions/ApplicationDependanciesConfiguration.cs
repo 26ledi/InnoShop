@@ -30,6 +30,7 @@ namespace UserManagement.API.Extensions
             builder.Services.AddScoped<IUserAuthenticationService, UserAuthenticationService>();
             builder.Services.AddScoped<SeedData>();
             builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
+            builder.Services.AddFluentValidationServices();
             builder.Services.AddSwaggerGen(c =>
             {
                 c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
@@ -72,6 +73,7 @@ namespace UserManagement.API.Extensions
         /// <returns>A <see cref="Task"/></returns>
         public async static Task Configure(this WebApplication application)
         {
+            application.UseExceptionHandler();
             await application.UseMigration();
 
             application.UseAuthentication();

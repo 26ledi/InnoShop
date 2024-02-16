@@ -7,7 +7,7 @@ namespace UserManagement.BusinessLogic.Services.Interfaces
         /// <summary>
         /// Method for signing up
         /// </summary>
-        /// <param name="userDto"></param>
+        /// <param name="userLoginDto"></param>
         /// <returns></returns>
         Task<TokenDto> LoginAsync(UserLoginDto userLoginDto);
     }

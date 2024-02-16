@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "30TU/jyy3wgCXgbE/e8gsUxCX6GaXN1KO09bTJ91K8JC720oW5vo2redanMZzDLUqKpXOVKykZv8eVgmfiLpuA==",
+  "dgSpecHash": "YGodl/sbHURvytUQokWWHUvZ+zqu11C6HAGKsDw+5+iD+AZvKeEv1K3iUjD+VrMTwWQOmGGrOAvSKuqx3rQfZQ==",
   "success": true,
   "projectFilePath": "J:\\InnoShop\\UserManagementService\\UserManagement.API\\UserManagement.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joyce\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\joyce\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\joyce\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\joyce\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\joyce\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\joyce\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\joyce\\.nuget\\packages\\masstransit\\8.1.3\\masstransit.8.1.3.nupkg.sha512",
     "C:\\Users\\joyce\\.nuget\\packages\\masstransit.abstractions\\8.1.3\\masstransit.abstractions.8.1.3.nupkg.sha512",

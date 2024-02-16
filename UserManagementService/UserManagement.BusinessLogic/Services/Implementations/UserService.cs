@@ -36,7 +36,7 @@ namespace UserManagement.BusinessLogic.Services.Implementations
         /// </summary>
         /// <param name="userDto">The user details.</param>
         /// <returns></returns>
-        /// <exception cref="AlreadyExistsException"></exception>
+        /// <exception cref="AlreadyExistException"></exception>
         public async Task<UserDto> AddAsync(UserDto userDto)
         {
 
@@ -115,9 +115,7 @@ namespace UserManagement.BusinessLogic.Services.Implementations
         /// <summary>
         /// Function for editing user's password 
         /// </summary>
-        /// <param name="email">The user's email for whom the password will be changed.</param>
-        /// <param name="currentPassword">The user's current password.</param>
-        /// <param name="newPassword">The new password for the user.</param>
+        /// <param name="userChangePasswordDto">The user's email for whom the password will be changed.</param>
         /// <returns></returns>
         /// <exception cref="NotFoundException"></exception>
         public async Task<UserDto> ChangePasswordAsync(UserChangePasswordDto userChangePasswordDto)
